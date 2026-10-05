@@ -1,0 +1,3 @@
+[workspace]
+resolver = "3"
+members = ["concat_aggregate","elliptic_dataset", "simple_graphnn"]
